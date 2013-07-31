@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<comps xmlns:rpm="http://linux.duke.edu/metadata/rpm" xmlns:patterns="http://novell.com/package/metadata/suse/pattern">
+  <group>
+    <id>base</id>
+    <name>base</name>
+    <description/>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">A</packagereq>
+      <packagereq type="default">C</packagereq>
+    </packagelist>
+  </group>
+</comps>
+

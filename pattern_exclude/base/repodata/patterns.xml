@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<patterns count="1"><pattern xmlns="http://novell.com/package/metadata/suse/pattern" xmlns:rpm="http://linux.duke.edu/metadata/rpm" xmlns:patterns="http://novell.com/package/metadata/suse/pattern">
+  <name>base</name>
+  <summary>Base packages for testing</summary>
+  <description/>
+  <uservisible/>
+  <category lang="en">Base Group</category>
+  <rpm:requires>
+    <rpm:entry name="A"/>
+    <rpm:entry name="C"/>
+  </rpm:requires>
+</pattern></patterns>
